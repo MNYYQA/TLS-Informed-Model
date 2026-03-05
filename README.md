@@ -17,7 +17,7 @@ The tool is based on a **TLS-Informed-Model Random Survival Forest (RSF) model**
 ## Application Interface
 
 <p align="center">
-<img src="figures/shiny_app.png" width="700">
+<img src="shiny_app.png" width="700">
 </p>
 
 ## How to Run the Application
