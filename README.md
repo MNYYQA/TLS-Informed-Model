@@ -1,5 +1,4 @@
-# TLS-Informed-Model
-TLS-Informed Machine Learning Model Predicts Survival and Immune Landscape in Locally Advanced Gastric Cancer
+# TLS-Informed Machine Learning Model Predicts Survival and Immune Landscape in Locally Advanced Gastric Cancer
 # Dynamic Prediction of Overall Survival
 
 This repository provides the source code for an interactive web-based survival prediction tool developed using the **Shiny framework in R**.  
@@ -13,7 +12,7 @@ The Shiny application can generate:
 - Predicted **3-year overall survival probability**
 - Predicted **5-year overall survival probability**
 
-The tool is based on a **Random Survival Forest (RSF) model** constructed from clinical variables.
+The tool is based on a **TLS-Informed-Model Random Survival Forest (RSF) model** constructed from clinical variables.
 
 ## Application Interface
 
@@ -26,6 +25,6 @@ The tool is based on a **Random Survival Forest (RSF) model** constructed from c
 You can launch the Shiny application directly in **R** using:
 
 ```r
-shiny::runGitHub("Dynamic-prediction-of-overall-survival", 
+shiny::runGitHub("TLS-Informed-Model", 
                  username = "YOUR_GITHUB_USERNAME", 
                  ref = "main")
