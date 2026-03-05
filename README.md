@@ -12,7 +12,7 @@ The Shiny application can generate:
 - Predicted **3-year overall survival probability**
 - Predicted **5-year overall survival probability**
 
-The tool is based on a **TLS-Informed-Model Random Survival Forest (RSF) model** constructed from clinical variables.
+The tool is based on a **Random Survival Forest TLS-Informed-model** constructed from clinical variables.
 
 ## Application Interface
 
